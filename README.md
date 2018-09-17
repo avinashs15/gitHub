@@ -1,15 +1,15 @@
 Test Flow
-  Login with a valid github user
+  ---Login with a valid github user
   
-  create an empty repositiry and add readme.md
+  ---create an empty repositiry and add readme.md
   
-  verify that the repository is created
+  ---verify that the repository is created
   
-  Delete the repository
+  ---Delete the repository
   
-  verify if the repository is deleted
+  ---verify if the repository is deleted
   
-  log out
+  ---log out
   
 
 Prerequisite (NPM, Nodejs and chrome is installed)
