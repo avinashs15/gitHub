@@ -1,3 +1,11 @@
+Test Flow
+  Login with a valid github user
+  create an empty repositiry and add read m.md
+  verify that the repository is created
+  Delete the repository
+  verify if the repository is deleted
+  log out
+
 Prerequisite (NPM, Nodejs and chrome is installed)
 
 Pull the code from gitlabs (git clone https://github.com/avinashs15/gitHub)
