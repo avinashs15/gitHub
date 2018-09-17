@@ -1,0 +1,18 @@
+{
+    "name": "gitHub",
+    "version": "1.0.0",
+    "keywords": [
+        "util",
+        "functional",
+        "server",
+        "client",
+        "browser"
+    ],
+    "author": "a.ranganatha",
+    "contributors": [],
+    "dependencies": {
+        "appendjson": "^0.1.2",        
+        "protractor": "^5.4.1",
+        "protractor-beautiful-reporter": "^1.2.5"
+    }
+}
