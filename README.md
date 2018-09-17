@@ -1,6 +1,6 @@
 Prerequisite (NPM, Nodejs and chrome is installed)
 
-Pull the code from gitlabs (git clone https://gitlab.com/avinashs15/new10GitHub.git)
+Pull the code from gitlabs (git clone https://github.com/avinashs15/gitHub)
 
 Install NodeJS and NPM
 
